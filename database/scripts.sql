@@ -1,0 +1,2 @@
+INSERT INTO users(email,username,name,surname,password,phone,address) VALUES ('demo@demo.com','demouser','demoname','demosurname','demopassword','+9044','Türkiye');
+INSERT INTO products(name,price) VALUES('demoürün',100.50);
